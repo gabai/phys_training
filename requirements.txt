@@ -8,7 +8,5 @@ ipywidgets
 datetime
 plotly.express
 plotly.figure_factory
-plotly.graph_objects
 scipy
-scipy.stats
 seaborn
