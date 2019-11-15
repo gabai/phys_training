@@ -12,6 +12,7 @@
 			".ff": "plotly.figure_factory",
 			".go": "plotly.graph_objects",
 			".sns": "seaborn",
+			".v": "ipyvuetify"
         },
         "language_kernel_mapping": {
             "python": "python3"
